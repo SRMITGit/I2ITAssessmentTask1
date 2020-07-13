@@ -1,11 +1,11 @@
-##I2ITAssessmentTask1
+## I2ITAssessmentTask1
 Website for I2IT Assessment Task 1 RMIT Introduction to Information Technology
 https://srmitgit.github.io/I2ITAssessmentTask1/
 
-##Overview
+## Overview
 In this assignment you will develop your IT profile, which will be used as an input to further assignments. This is an individual assignment, and you will present your assignment by setting up a website which will contain the information about you.
 
-##Assessment Criteria
+## Assessment Criteria
 Personal Information 5%
 Interest in IT 10%
 Ideal Job 25%
@@ -13,7 +13,7 @@ Profile 20%
 Project Ideas 30%
 Presentation 10%
 
-##Learning Outcomes
+## Learning Outcomes
 This assessment supports the Graduate Outcomes of Enabling Knowledge, Critical Analysis, Problem Solving.
 1. CLO 1: describe and apply basic concepts of contemporary technologies
 2. CLO 2: analyse human and social contexts of technological innovations
